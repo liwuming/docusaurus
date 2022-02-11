@@ -1,0 +1,17 @@
+{
+  "unversionedId": "linux/shell编程/chap01 shell",
+  "id": "linux/shell编程/chap01 shell",
+  "title": "我是shell编程",
+  "description": "",
+  "source": "@site/docs\\linux\\shell编程\\chap01.md",
+  "sourceDirName": "linux/shell编程",
+  "slug": "/linux/shell编程/chap01 shell",
+  "permalink": "/docs/linux/shell编程/chap01 shell",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/shell编程/chap01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chap01 shell"
+  },
+  "sidebar": "linux"
+}

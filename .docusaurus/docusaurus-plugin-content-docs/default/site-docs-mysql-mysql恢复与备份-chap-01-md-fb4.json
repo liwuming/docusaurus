@@ -1,0 +1,17 @@
+{
+  "unversionedId": "mysql/mysql恢复与备份/chap01",
+  "id": "mysql/mysql恢复与备份/chap01",
+  "title": "我是mysql首页112",
+  "description": "",
+  "source": "@site/docs\\mysql\\mysql恢复与备份\\chap01.md",
+  "sourceDirName": "mysql/mysql恢复与备份",
+  "slug": "/mysql/mysql恢复与备份/chap01",
+  "permalink": "/docs/mysql/mysql恢复与备份/chap01",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mysql/mysql恢复与备份/chap01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chap01"
+  },
+  "sidebar": "mysql"
+}

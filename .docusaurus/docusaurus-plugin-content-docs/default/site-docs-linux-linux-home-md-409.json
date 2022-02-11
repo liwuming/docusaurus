@@ -1,0 +1,27 @@
+{
+  "unversionedId": "linux/linux_home",
+  "id": "linux/linux_home",
+  "title": "linux_home",
+  "description": "我是linux首页",
+  "source": "@site/docs/linux/linux_home.md",
+  "sourceDirName": "linux",
+  "slug": "/linux/linux_home",
+  "permalink": "/docs/linux/linux_home",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/linux_home.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "linux_home",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "我是mysql首页112",
+    "permalink": "/docs/mysql/mysql_home"
+  }
+}
