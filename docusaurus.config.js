@@ -9,7 +9,7 @@ const config = {
   title: "liwuming's blog",
   tagline: 'Dinosaurs are cool',
   url: 'https://mydocs.ibiancheng.net',
-  baseUrl: '/docusaurus/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
