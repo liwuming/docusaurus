@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "liwuming's blog",
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://mydocs.ibiancheng.net',
+  baseUrl: '/docusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'liwuming', // Usually your GitHub org/user name.
-  projectName: 'liwuming.github.io', // Usually your repo name.
+  projectName: 'docusaurus', // Usually your repo name.
   trailingSlash: false,
   presets: [
     [
