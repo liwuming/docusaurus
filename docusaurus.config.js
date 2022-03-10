@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'My Site12',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -53,9 +53,20 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorial2',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+		  {
+            type: 'doc',
+            docId: 'linux/intro',
+            position: 'left',
+            label: 'linux',
+          },{
+            type: 'doc',
+            docId: 'mysql/intro',
+            position: 'left',
+            label: 'mysql',
+          },
+          {to: '/blog', label: 'Blog3', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

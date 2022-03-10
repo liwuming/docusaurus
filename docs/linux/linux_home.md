@@ -1,6 +1,6 @@
 ---
 id: linux_home
-sidebar_position: 0
+sidebar_position: 3
 ---
 
 
