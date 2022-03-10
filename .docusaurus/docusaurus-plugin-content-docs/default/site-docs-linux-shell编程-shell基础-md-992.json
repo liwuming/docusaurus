@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/shell编程/shell基础",
+  "id": "linux/shell编程/shell基础",
+  "title": "shell基础",
+  "description": "shell的种类，默认shell是bash，如何查看--$SHELL",
+  "source": "@site/docs\\linux\\shell编程\\shell基础.md",
+  "sourceDirName": "linux/shell编程",
+  "slug": "/linux/shell编程/shell基础",
+  "permalink": "/docs/linux/shell编程/shell基础",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/shell编程/shell基础.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "mysql事务管理",
+    "permalink": "/docs/linux/shell编程/mysql事务管理"
+  },
+  "next": {
+    "title": "shell编程",
+    "permalink": "/docs/linux/shell编程/"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "linux/客户端工具/xshell的使用",
+  "id": "linux/客户端工具/xshell的使用",
+  "title": "xshell的使用",
+  "description": "xshell使用起来很方便，但有一个问题很是让人烦--总是自动断开，这和xshell的重新连接设置有关",
+  "source": "@site/docs\\linux\\客户端工具\\xshell的使用.md",
+  "sourceDirName": "linux/客户端工具",
+  "slug": "/linux/客户端工具/xshell的使用",
+  "permalink": "/docs/linux/客户端工具/xshell的使用",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/客户端工具/xshell的使用.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "根据用户名，获取用户相关信息",
+    "permalink": "/docs/linux/shell编程/用户管理"
+  }
+}

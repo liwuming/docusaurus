@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mysql/innodb数据库/自带的系统表",
+  "id": "mysql/innodb数据库/自带的系统表",
+  "title": "自带的系统表",
+  "description": "关于innodb的系统架构",
+  "source": "@site/docs\\mysql\\innodb数据库\\自带的系统表.md",
+  "sourceDirName": "mysql/innodb数据库",
+  "slug": "/mysql/innodb数据库/自带的系统表",
+  "permalink": "/docs/mysql/innodb数据库/自带的系统表",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mysql/innodb数据库/自带的系统表.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mysql",
+  "previous": {
+    "title": "事务安全",
+    "permalink": "/docs/mysql/innodb数据库/事务安全"
+  },
+  "next": {
+    "title": "数据库的备份与恢复",
+    "permalink": "/docs/mysql/备份与恢复/数据库的备份与恢复"
+  }
+}

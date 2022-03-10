@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/linux命令/文本编辑器",
+  "id": "linux/linux命令/文本编辑器",
+  "title": "文本编辑器",
+  "description": "",
+  "source": "@site/docs\\linux\\linux命令\\文本编辑器.md",
+  "sourceDirName": "linux/linux命令",
+  "slug": "/linux/linux命令/文本编辑器",
+  "permalink": "/docs/linux/linux命令/文本编辑器",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/linux命令/文本编辑器.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "sed",
+    "permalink": "/docs/linux/linux命令/文本三剑客"
+  },
+  "next": {
+    "title": "正则表达式",
+    "permalink": "/docs/linux/linux命令/正则表达式"
+  }
+}

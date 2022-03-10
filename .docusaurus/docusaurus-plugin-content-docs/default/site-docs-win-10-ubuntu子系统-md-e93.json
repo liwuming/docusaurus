@@ -1,0 +1,14 @@
+{
+  "unversionedId": "win10/Ubuntu子系统",
+  "id": "win10/Ubuntu子系统",
+  "title": "Ubuntu子系统",
+  "description": "win10系统下的Ubuntu忘记root密码怎么办",
+  "source": "@site/docs\\win10\\Ubuntu子系统.md",
+  "sourceDirName": "win10",
+  "slug": "/win10/Ubuntu子系统",
+  "permalink": "/docs/win10/Ubuntu子系统",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/win10/Ubuntu子系统.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

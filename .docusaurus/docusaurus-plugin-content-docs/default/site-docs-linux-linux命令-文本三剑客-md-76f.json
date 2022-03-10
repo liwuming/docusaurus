@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/linux命令/文本三剑客",
+  "id": "linux/linux命令/文本三剑客",
+  "title": "sed",
+  "description": "",
+  "source": "@site/docs\\linux\\linux命令\\文本三剑客.md",
+  "sourceDirName": "linux/linux命令",
+  "slug": "/linux/linux命令/文本三剑客",
+  "permalink": "/docs/linux/linux命令/文本三剑客",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/linux命令/文本三剑客.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "shell编程",
+    "permalink": "/docs/linux/linux命令/shell编程"
+  },
+  "next": {
+    "title": "文本编辑器",
+    "permalink": "/docs/linux/linux命令/文本编辑器"
+  }
+}

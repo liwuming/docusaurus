@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mysql - 副本",
+  "id": "mysql - 副本",
+  "title": "我是mysql首页",
+  "description": "",
+  "source": "@site/docs\\mysql - 副本.md",
+  "sourceDirName": ".",
+  "slug": "/mysql - 副本",
+  "permalink": "/docs/mysql - 副本",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mysql - 副本.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "我是mysql首页",
+    "permalink": "/docs/mysql"
+  }
+}

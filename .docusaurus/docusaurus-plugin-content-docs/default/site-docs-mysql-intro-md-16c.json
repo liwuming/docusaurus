@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mysql/intro",
+  "id": "mysql/intro",
+  "title": "MySQL简介",
+  "description": "mysql",
+  "source": "@site/docs/mysql/intro.md",
+  "sourceDirName": "mysql",
+  "slug": "/mysql/intro",
+  "permalink": "/docs/mysql/intro",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mysql/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "MySQL简介",
+    "sidebar_position": 0
+  },
+  "sidebar": "mysql",
+  "next": {
+    "title": "我是mysql首页",
+    "permalink": "/docs/mysql/mysql_home"
+  }
+}

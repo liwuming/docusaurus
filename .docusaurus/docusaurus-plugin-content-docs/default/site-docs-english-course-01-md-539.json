@@ -1,0 +1,14 @@
+{
+  "unversionedId": "english/course01",
+  "id": "english/course01",
+  "title": "course01",
+  "description": "词根",
+  "source": "@site/docs/english/course01.md",
+  "sourceDirName": "english",
+  "slug": "/english/course01",
+  "permalink": "/docs/english/course01",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/english/course01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

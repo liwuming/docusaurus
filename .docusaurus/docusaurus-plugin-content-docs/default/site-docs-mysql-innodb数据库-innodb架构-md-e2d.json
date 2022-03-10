@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mysql/innodb数据库/innodb架构",
+  "id": "mysql/innodb数据库/innodb架构",
+  "title": "innodb架构",
+  "description": "内存架构",
+  "source": "@site/docs\\mysql\\innodb数据库\\innodb架构.md",
+  "sourceDirName": "mysql/innodb数据库",
+  "slug": "/mysql/innodb数据库/innodb架构",
+  "permalink": "/docs/mysql/innodb数据库/innodb架构",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mysql/innodb数据库/innodb架构.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mysql",
+  "previous": {
+    "title": "我是mysql首页",
+    "permalink": "/docs/mysql/mysql_home"
+  },
+  "next": {
+    "title": "事务安全",
+    "permalink": "/docs/mysql/innodb数据库/事务安全"
+  }
+}

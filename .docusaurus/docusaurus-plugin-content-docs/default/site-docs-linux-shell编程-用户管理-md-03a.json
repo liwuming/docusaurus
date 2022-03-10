@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/shell编程/用户管理",
+  "id": "linux/shell编程/用户管理",
+  "title": "根据用户名，获取用户相关信息",
+  "description": "如何仅仅获取uid呢?百度一下?还是google?不如man一下，看不懂了在问网络",
+  "source": "@site/docs\\linux\\shell编程\\用户管理.md",
+  "sourceDirName": "linux/shell编程",
+  "slug": "/linux/shell编程/用户管理",
+  "permalink": "/docs/linux/shell编程/用户管理",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/shell编程/用户管理.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "shell编程",
+    "permalink": "/docs/linux/shell编程/新建文本文档"
+  },
+  "next": {
+    "title": "xshell的使用",
+    "permalink": "/docs/linux/客户端工具/xshell的使用"
+  }
+}

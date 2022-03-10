@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/shell编程/shell编程",
+  "id": "linux/shell编程/shell编程",
+  "title": "shell编程",
+  "description": "关于shell是什么",
+  "source": "@site/docs\\linux\\shell编程\\shell编程.md",
+  "sourceDirName": "linux/shell编程",
+  "slug": "/linux/shell编程/",
+  "permalink": "/docs/linux/shell编程/",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/shell编程/shell编程.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "shell基础",
+    "permalink": "/docs/linux/shell编程/shell基础"
+  },
+  "next": {
+    "title": "shell编程",
+    "permalink": "/docs/linux/shell编程/新建文本文档"
+  }
+}

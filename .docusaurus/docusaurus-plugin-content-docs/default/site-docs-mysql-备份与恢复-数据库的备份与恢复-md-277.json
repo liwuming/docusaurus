@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mysql/备份与恢复/数据库的备份与恢复",
+  "id": "mysql/备份与恢复/数据库的备份与恢复",
+  "title": "数据库的备份与恢复",
+  "description": "",
+  "source": "@site/docs\\mysql\\备份与恢复\\数据库的备份与恢复.md",
+  "sourceDirName": "mysql/备份与恢复",
+  "slug": "/mysql/备份与恢复/数据库的备份与恢复",
+  "permalink": "/docs/mysql/备份与恢复/数据库的备份与恢复",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mysql/备份与恢复/数据库的备份与恢复.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mysql",
+  "previous": {
+    "title": "自带的系统表",
+    "permalink": "/docs/mysql/innodb数据库/自带的系统表"
+  },
+  "next": {
+    "title": "数据库的备份策略",
+    "permalink": "/docs/mysql/备份与恢复/数据库的备份策略"
+  }
+}

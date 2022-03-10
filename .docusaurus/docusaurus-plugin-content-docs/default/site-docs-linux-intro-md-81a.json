@@ -1,0 +1,22 @@
+{
+  "unversionedId": "linux/intro",
+  "id": "linux/intro",
+  "title": "intro",
+  "description": "limux",
+  "source": "@site/docs/linux/intro.md",
+  "sourceDirName": "linux",
+  "slug": "/linux/intro",
+  "permalink": "/docs/linux/intro",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "linux",
+  "next": {
+    "title": "linux_home",
+    "permalink": "/docs/linux/linux_home"
+  }
+}

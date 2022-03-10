@@ -1,0 +1,14 @@
+{
+  "unversionedId": "我的感悟/非暴力沟通",
+  "id": "我的感悟/非暴力沟通",
+  "title": "非暴力沟通",
+  "description": "如何利用非暴力沟通处理人际关系",
+  "source": "@site/docs\\我的感悟\\非暴力沟通.md",
+  "sourceDirName": "我的感悟",
+  "slug": "/我的感悟/非暴力沟通",
+  "permalink": "/docs/我的感悟/非暴力沟通",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/我的感悟/非暴力沟通.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

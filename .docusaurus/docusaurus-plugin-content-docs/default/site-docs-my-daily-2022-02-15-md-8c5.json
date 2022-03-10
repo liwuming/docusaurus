@@ -1,0 +1,14 @@
+{
+  "unversionedId": "my-daily/2022-02-15",
+  "id": "my-daily/2022-02-15",
+  "title": "2022-02-15",
+  "description": "今天是2022年的2月15日，农历的元宵节，今天遇到了两件难以忘却的事情，",
+  "source": "@site/docs/my-daily/2022-02-15.md",
+  "sourceDirName": "my-daily",
+  "slug": "/my-daily/2022-02-15",
+  "permalink": "/docs/my-daily/2022-02-15",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/my-daily/2022-02-15.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

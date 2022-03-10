@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/shell编程/mysql事务管理",
+  "id": "linux/shell编程/mysql事务管理",
+  "title": "mysql事务管理",
+  "description": "事务的实现",
+  "source": "@site/docs\\linux\\shell编程\\mysql事务管理.md",
+  "sourceDirName": "linux/shell编程",
+  "slug": "/linux/shell编程/mysql事务管理",
+  "permalink": "/docs/linux/shell编程/mysql事务管理",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/shell编程/mysql事务管理.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "正则表达式",
+    "permalink": "/docs/linux/linux命令/正则表达式"
+  },
+  "next": {
+    "title": "shell基础",
+    "permalink": "/docs/linux/shell编程/shell基础"
+  }
+}

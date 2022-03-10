@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/linux命令/list",
+  "id": "linux/linux命令/list",
+  "title": "list",
+  "description": "ls -- list directory contents",
+  "source": "@site/docs\\linux\\linux命令\\list.md",
+  "sourceDirName": "linux/linux命令",
+  "slug": "/linux/linux命令/list",
+  "permalink": "/docs/linux/linux命令/list",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/linux命令/list.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "linux_home",
+    "permalink": "/docs/linux/linux_home"
+  },
+  "next": {
+    "title": "shell编程",
+    "permalink": "/docs/linux/linux命令/shell编程"
+  }
+}

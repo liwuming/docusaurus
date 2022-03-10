@@ -1,0 +1,23 @@
+{
+  "unversionedId": "linux/shell编程/新建文本文档",
+  "id": "linux/shell编程/新建文本文档",
+  "title": "shell编程",
+  "description": "变量",
+  "source": "@site/docs\\linux\\shell编程\\新建文本文档.md",
+  "sourceDirName": "linux/shell编程",
+  "slug": "/linux/shell编程/新建文本文档",
+  "permalink": "/docs/linux/shell编程/新建文本文档",
+  "editUrl": "https://github.com/liwuming/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux/shell编程/新建文本文档.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "linux",
+  "previous": {
+    "title": "shell编程",
+    "permalink": "/docs/linux/shell编程/"
+  },
+  "next": {
+    "title": "根据用户名，获取用户相关信息",
+    "permalink": "/docs/linux/shell编程/用户管理"
+  }
+}
