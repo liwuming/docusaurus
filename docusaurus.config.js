@@ -1,21 +1,22 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
+const lightCodeTheme = require('prism-react-renderer/themes/shadesOfPurple');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "liwuming's blog",
   tagline: 'Dinosaurs are cool',
-  url: 'https://mydocs.ibiancheng.net',
-  baseUrl: '/docusaurus/',
+  url: 'https://liwuming.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'liwuming', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   presets: [
     [
       'classic',
@@ -43,18 +44,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site12',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: '爱编程',
+          src: '/img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial2',
-          },
 		  {
             type: 'doc',
             docId: 'linux/intro',
@@ -65,8 +59,84 @@ const config = {
             docId: 'mysql/intro',
             position: 'left',
             label: 'mysql',
+          },{
+            type: 'doc',
+            docId: 'python/index',
+            position: 'left',
+            label: 'python',
           },
           {to: '/blog', label: 'Blog3', position: 'left'},
+		  
+		  
+		  {
+            label: '首页',href: '/',
+            position: 'right',
+          },
+		  {
+            label: '前端技能',
+            position: 'right',
+			items:[
+				{
+					label: 'Css/Sass',
+					href: '/',
+				},
+				{
+					label: 'EcmaScript',
+					href: '/',
+				},
+				{
+					label: 'Vue',
+					href: '/',
+				},
+				{
+					label: 'React',
+					href: '/',
+				}
+			]
+          },
+		  {
+            label: '后端技能',
+            position: 'right',
+			items:[
+				{
+					label: 'PHP',
+					href: '/',
+				},
+				{
+					label: 'Python',
+					href: '/docs/python/',
+				}
+			]
+          },
+		  {
+            label: '系统技能',
+            position: 'right',
+			items:[
+				{
+					label: 'Linux',
+					href: '/docs/linux/intro',
+				}
+			]
+          },
+		  {
+            label: '数据库',
+            position: 'right',
+			items:[
+				{
+					label: 'MySQL',
+					href: '/docs/mysql/intro',
+				},
+				{
+					label: 'redis',
+					href: '/',
+				},
+				{
+					label: 'mongoDB',
+					href: '/',
+				}
+			]
+          },
+		  
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -76,47 +146,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
