@@ -8,3 +8,7 @@ sidebar_position: 3
 
 > 1121
 > 1121
+
+
+linux常用快捷键
+【ctrl】+【l】--clear，清楚屏幕

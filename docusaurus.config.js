@@ -49,6 +49,12 @@ const config = {
           src: '/img/logo.svg',
         },
         items: [
+			{
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Tutorial2',
+          },
 		  {
             type: 'doc',
             docId: 'linux/intro',
