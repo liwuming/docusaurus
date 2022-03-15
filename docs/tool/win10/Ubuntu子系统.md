@@ -7,8 +7,11 @@ win10系统下的Ubuntu忘记root密码怎么办
 
 ubunbu不是内部或外部命令
 
-lxrun /setdefaultuser root
+lxrun /setdefaultuser ro
 
 
+
+更新某个用户的密码
+passwd user_name
 
 

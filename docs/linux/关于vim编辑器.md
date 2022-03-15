@@ -1,7 +1,6 @@
 
 
 # 配置
-
 ```bash
 # 显示行号
 set number
