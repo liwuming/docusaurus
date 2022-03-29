@@ -32,3 +32,18 @@ DNS1=119.29.29.29
 
 
 
+
+
+
+# 初始化
+
+mysql5.6
+mysql_install_db --
+
+mysql5.7
+mysqld --initalize --user
+
+
+
+
+
