@@ -74,7 +74,6 @@ tag -zxvf mysql-5.7.37-linux-glibc2.12-x86_64.tar.gz
 
 
 
-
 ```
 
 mysql 程序目录下的 bin 目录是所有 mysql 的可执行程序
@@ -82,3 +81,17 @@ mysql 程序目录下的 bin 目录是所有 mysql 的可执行程序
 ln -s /usr/local/mysql/\* \*
 
 二进制版是一个免安装版，
+=======
+
+
+
+# 初始化
+
+mysql5.6
+mysql_install_db --
+
+mysql5.7
+mysqld --initalize --user
+
+
+
