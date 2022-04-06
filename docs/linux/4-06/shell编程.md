@@ -174,7 +174,112 @@ bash数组
 
 
 命令历史
+!执行历史
+!!：上一个命令
+!$：上一个命令的最后一个参数
+!#：上#个参数
 
-!!
-!$
-!#
+
+tee命令
+
+
+
+别名：
+取消别名
+unalias
+\：跳过别名
+
+
+
+jobs
+
+kill %3 vs kill 3
+
+
+管道
+
+
+# 命令排序
+;不具备逻辑判断
+&&
+||
+
+
+
+
+1、cat命令
+打印文件内容
+
+
+|cat - file
+
+
+
+
+options
+- -n:显示行号
+- -s:删除多余的空白行
+- -T:将制表符显示为^i
+
+
+
+
+
+
+
+查找
+find命令
+
+
+find 路径 
+> find - search for files in a directory hierarchy
+
+
+
+根据文件命查找
+
+-l:
+- -name
+
+正则匹配
+
+
+
+
+action:
+
+
+
+locate命令
+
+
+
+
+
+chap08 网络设置
+
+
+对网络认知有多少
+
+
+
+ping命令
+
+
+
+
+
+各种网络协议
+TCP/IP
+HTTP
+Socket
+
+
+
+
+
+ifconfig
+route
+host
+
+
