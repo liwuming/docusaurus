@@ -25,3 +25,9 @@ linux内核
 集群架构
 
 
+
+nginx
+shell
+redis
+mysql
+
