@@ -53,3 +53,6 @@ passwd: password updated successfully
 # 现在就可以通过su命令切换到root账户了
 su - root
 ```
+
+
+

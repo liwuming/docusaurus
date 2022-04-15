@@ -85,6 +85,88 @@ systemctl stop firewalld
 
 
 
+关于nginx的发行版本
+- nginx开源版
+- nginx plus商业版
+- openresty
+- tengine
+
+
+
+# nginx开源版安装
+
+
+
+上nginx官网下载nginx的源码包
+s
+
+安装nginx的依赖包
+yum install -y gcc-c++ pcre pcre-devel zlib zlib-devel openssl openssl-devel 
+
+
+
+
+
+
+wget http://mirrors.aliyun.com/repo/Centos-7.repo
+
+
+
+2）备份并替换系统的repo文件
+cp Centos-7.repo /etc/yum.repos.d/
+cd /etc/yum.repos.d/
+mv CentOS-Base.repo CentOS-Base.repo.bak
+mv Centos-7.repo CentOS-Base.repo （区分大小写）
+
+3）执行yum源更新命令
+yum clean all && yum makecache && yum update
+
+
+
+yum list|grep aliyun
+
+配置完毕。
+
+
+
+
+
+
+编译安装
+./configure --sbin-path=/usr/local/nginx/nginx \
+    --conf-path=/usr/local/nginx/nginx.conf \
+    --pid-path=/usr/local/nginx/nginx.pid \
+    --with-http_ssl_module \
+    --with-pcre=../pcre2-10.39 \
+    --with-zlib=../zlib-1.2.11
+	
+	
+	./configure --sbin-path=/usr/local/nginx/nginx \
+--conf-path=/usr/local/nginx/nginx.conf \
+--pid-path=/usr/local/nginx/nginx.pid \
+--with-http_ssl_module \
+--with-pcre=/usr/local/src/pcre-8.34 \
+--with-zlib=/usr/local/src/zlib-1.2.8 \
+--with-openssl=/usr/local/src/openssl-1.0.1c
+	
+	
+make && make install
+
+
+
+
+
+nginx的配置文件
+一主多傅
+
+
+
+
+
+
+
+
+
 
 
 
