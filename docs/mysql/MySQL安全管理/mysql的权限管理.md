@@ -93,3 +93,35 @@ B+tree
 
 
 
+
+
+
+mysql用户授权
+
+创建用户
+create user liwuming@'%' identified by 'liwuming';
+
+
+grant insert,update,select on accp.* to liwuming@'%';
+> 注意一次只能授权一个库
+
+查看授权信息
+```mysql
+mysql> show grants for liwuming@'%';
++------------------------------------------------------------+
+| Grants for liwuming@%                                      |
++------------------------------------------------------------+
+| GRANT USAGE ON *.* TO 'liwuming'@'%'                       |
+| GRANT SELECT, INSERT, UPDATE ON `accp`.* TO 'liwuming'@'%' |
+| GRANT SELECT, INSERT, UPDATE ON `dg`.* TO 'liwuming'@'%'   |
++------------------------------------------------------------+
+3 rows in set (0.00 sec)
+```
+
+
+授权之后，客户端窗口需要重启之后生效
+
+
+
+撤销权限
+revoke privileges on database.tables from user[@host];
