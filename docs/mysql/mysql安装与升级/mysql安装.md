@@ -81,8 +81,6 @@ mysql 程序目录下的 bin 目录是所有 mysql 的可执行程序
 ln -s /usr/local/mysql/\* \*
 
 二进制版是一个免安装版，
-=======
-
 
 
 # 初始化
@@ -95,3 +93,22 @@ mysqld --initalize --user
 
 
 
+
+
+# 二进制安装
+
+#会生成临时密码
+mysqld --initialzie
+#无限制，无临时密码
+mysqld --initialzie-insecure 
+
+yum install -y libaio-devel
+
+
+
+
+
+
+
+
+# yum安装
