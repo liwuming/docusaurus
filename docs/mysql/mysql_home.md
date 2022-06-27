@@ -21,7 +21,9 @@ sidebar_position: 0
 # mysql的权限管理
 
 
-
+:::info
+1121
+::::
 
 在mysql8之前版本中，可以
 

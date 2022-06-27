@@ -17,6 +17,11 @@ const config = {
   projectName: 'docusaurus', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+  
+  stylesheets: [
+    // 字符串格式。
+    '/css/init.css',
+	],
   presets: [
     [
       'classic',
@@ -50,10 +55,19 @@ const config = {
         },
         items: [
 			{
+				type: 'doc',
+				docId: 'intro',
+				position: 'left',
+				label: 'Tutorial2',
+			},
+		  
+		  
+		  
+		  {
             type: 'doc',
-            docId: 'intro',
+            docId: 'english/intro',
             position: 'left',
-            label: 'Tutorial2',
+            label: 'english',
           },
 		  {
             type: 'doc',
@@ -71,6 +85,13 @@ const config = {
             position: 'left',
             label: 'python',
           },
+		  {
+            type: 'doc',
+            docId: 'books/index',
+            position: 'left',
+            label: 'books',
+          },
+		  
           {to: '/blog', label: 'Blog3', position: 'left'},
 		  
 		  

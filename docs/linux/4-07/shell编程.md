@@ -35,12 +35,6 @@ fi
 - -n：非空时返回true
 
 数字
-- -eq:=
-- -ne:<>
-- -lt
-- -gt
-- -le
-- -ge
 
 
 case $ in 

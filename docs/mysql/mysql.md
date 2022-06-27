@@ -1,3 +1,8 @@
+---
+title : MySQL简介
+sidebar_position : 1
+---
+
 
 今天突然mysql无法启动了，通过提示
 ```mysql

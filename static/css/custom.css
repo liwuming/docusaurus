@@ -6,12 +6,6 @@
 
 /* You can override the default Infima variables here. */
 :root {
-	--heading-one-font-size:30px;
-    --heading-two-font-size:24px;
-    --heading-three-font-size:22px;
-    --heading-four-font-size: 18px;
-    --heading-five-font-size: 16px;
-    --heading-fix-font-size: 16px;
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -36,11 +30,6 @@ html[data-theme='dark'] {
   --ifm-color-primary-lightest: #4fddbf;
 }
 
-
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
-}
-body{background:#f6f7f8;}
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
@@ -48,68 +37,9 @@ body{background:#f6f7f8;}
   padding: 0 var(--ifm-pre-padding);
 }
 
-.theme-doc-sidebar-container{background:#fff;}
-.padding-top--md{padding-top:0!important;}
-.docItemCol_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocItem-styles-module {
-  margin:0 auto!important;padding:35px!important;background:#fff;
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
 }
-
-article header{margin-bottom:20px;height:50px;}
-article header h1{
-	margin:-5px -37px 0 -37px;padding:0 35px 13px 37px;line-height:40px;
-	font-size:34px;font-weight:700;
-	border-bottom:3px solid #ddd;
-}
-
-article h1,article h2,article h3,article h4,article h5,article h6 {
-    /*
-	color: #4f4f4f;
-	*/
-    padding-left: 7px;
-    font-family: "Microsoft YaHei"!important;
-    font-weight:400;
-    border-bottom:3px double #eee
-}
-article h1 {
-    margin: 1.5em 0 .5em 0;
-    padding-bottom:7px;
-    font-size: var(--heading-one-font-size);
-}
-
-article h2 {
-    margin: 1.3em 0 .3em 0;
-    padding-bottom:5px;
-    font-size: var(--heading-two-font-size);
-}
-
-article h3 {
-    margin: 1.15em 0 .1em 0;
-    padding-bottom: 3px;
-    font-size: var(--heading-three-font-size);
-}
-
-article h4 {
-    margin-top: 1em;
-    padding-bottom: 3px;
-    font-size: var(--heading-four-font-size);
-}
-
-article h5 {
-    margin-top: .8em;
-    padding-bottom: 3px;
-    font-size: var(--heading-five-font-size);
-}
-
-article h6 {
-    margin-top: .6em;
-    padding-bottom: 3px;
-    font-size: var(--heading-fix-font-size);
-}
-
-article .alert h5{border:none;}
-
-
-article p{margin:35px 0;}
 
 article blockquote{
     margin: 1.25rem 0;
